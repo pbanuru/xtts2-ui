@@ -149,7 +149,7 @@ pip install fugashi[unidic-lite]
 or for more serious processing:
 ```bash
 # Full version
-pip install fugashi[unidic]
+pip install 'fugashi[unidic]'
 python -m unidic download
 ```
 More details [here](https://github.com/polm/fugashi#installing-a-dictionary).
