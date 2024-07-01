@@ -37,7 +37,7 @@ To set up this project, follow these steps in a terminal:
       ```
 
 2. **Create a Virtual Environment:**
-   - Run the following command to create a Python virtual environment (tested on **3.10.10**):
+   - Run the following command to create a Python virtual environment (tested on Python **3.10.10**):
      ```bash
      python -m venv venv
      ```
