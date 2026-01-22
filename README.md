@@ -24,7 +24,15 @@ The model used is `tts_models/multilingual/multi-dataset/xtts_v2`. For more deta
   - [Notes](#notes)
   - [Credits](#credits)
 
-## Setup
+
+## macos quick run:
+```
+git clone git@github.com:pbanuru/xtts2-ui.git
+cd xtts2-ui
+uv run app.py
+```
+
+## Setup (may be out of date)
 
 To set up this project, follow these steps in a terminal:
 
