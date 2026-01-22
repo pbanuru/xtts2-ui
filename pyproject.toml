@@ -3,12 +3,9 @@ name = "xtts2-ui"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = "==3.11.*"
 dependencies = [
-    "gradio==4.7.1",
+    "gradio==6.3.0",
     "soundfile==0.12.1",
-    "tts==0.21.*",
-    "transformers<4.40",
-    "setuptools<81",
-    "torch<2.6",
+    "tts==0.22.0",
 ]
